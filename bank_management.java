@@ -1,5 +1,3 @@
-package mad;
-
 /*
 **	GHASADIYA MANTHAN	**
 */
