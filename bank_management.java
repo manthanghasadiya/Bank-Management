@@ -2,7 +2,6 @@ package mad;
 
 /*
 **	GHASADIYA MANTHAN	**
-**    	201951065    	**
 */
 
 import java.util.Scanner;
