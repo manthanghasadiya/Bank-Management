@@ -1,9 +1,9 @@
 /*
 **	GHASADIYA MANTHAN	**
 */
+/* devang delvadiya */
 
 import java.util.Scanner;
-
 class root {
 
     Scanner sc = new Scanner(System.in);
@@ -17,13 +17,18 @@ class root {
             return x;
         } else {
             x = 50;
+		
+		
             return x;
         }
     }
     double Interest(double n) {
 
         double x = n * (0.07);
-        return x;
+        
+	    
+	    
+	    return x;
     }
 
 }
